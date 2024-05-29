@@ -8,5 +8,5 @@ Meu nome é Ana Carolina
 
   E é isso por enquanto🌻✨
 
-  (https://media1.tenor.com/m/V1eMT7fFkZYAAAAd/ai-ohto.gif)
+  ![]https://media1.tenor.com/m/V1eMT7fFkZYAAAAd/ai-ohto.gif
 
