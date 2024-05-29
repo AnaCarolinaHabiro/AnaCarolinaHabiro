@@ -7,3 +7,6 @@ Meu nome é Ana Carolina
 - Estou me desenvolvendo na linguagem de progracaçao: Javascript
 
   E é isso por enquanto🌻✨
+
+  [gif](https://media1.tenor.com/m/V1eMT7fFkZYAAAAd/ai-ohto.gif)
+
