@@ -1,7 +1,7 @@
 ## OiOi 😄
 
 
-Meu nome é Ana Carolina
+Meu nome é Ana Carolina, mas pode me chamar de Ana
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem de progracaçao: Javascript
